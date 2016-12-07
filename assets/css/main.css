@@ -1774,7 +1774,24 @@
 			width: 30%;
 			margin: 0 0 6em 0;
 	}
-
+	.image.custom1 {
+		display: block;
+		float:right;
+		width: 30%;
+		margin: 0 1em 1em 1em;
+}
+.image.custom2 {
+	display: block;
+	float:right;
+	width: 20%;
+	margin: 0 1em 1em 1em;
+}
+.image.custom3 {
+	display: block;
+	float:right;
+	width: 45%;
+	margin: 0 1em 1em 1em;
+}
 
 		.image.centered {
 			display: block;
