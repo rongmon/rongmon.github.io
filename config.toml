@@ -1,6 +1,7 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://rongmonbordoloi.com/"
 title = "Rongmon Bordoloi"
 theme = "hugo-coder"
+publishDir = "docs"
 
 languageCode = "en"
 defaultContentLanguage = "en"
