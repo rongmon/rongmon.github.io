@@ -1,0 +1,19 @@
+{{- $news := where .Site.RegularPages "Section" "news" -}}
+{{- $sorted := sort $news "Date" "desc" -}}
+{{- range $sorted -}}
+<div class="news-item">
+{{- if .Params.image }}
+<div class="news-image">
+  <img src="{{ .Params.image }}" alt="{{ .Title }}">
+</div>
+{{- end }}
+<div class="news-content">
+<div class="news-date">{{ .Date.Format "January 2006" }}</div>
+<h3>{{ .Title }}</h3>
+<p>{{ .Content }}</p>
+{{- if .Params.link }}
+<a href="{{ .Params.link }}">Read more →</a>
+{{- end }}
+</div>
+</div>
+{{- end -}}

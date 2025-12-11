@@ -1,0 +1,106 @@
+baseURL = "http://localhost:1313/"
+title = "Rongmon Bordoloi"
+theme = "hugo-coder"
+
+languageCode = "en"
+defaultContentLanguage = "en"
+
+canonifyurls = true
+
+[pagination]
+pagerSize = 10
+
+[outputs]
+home = ["HTML", "RSS"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
+
+[params]
+author = "Rongmon Bordoloi"
+description = "Astrophysicist at NC State University"
+keywords = "astrophysics, research, cgm, galaxies, jwst"
+info = "Associate Professor of Physics, NC State University"
+cvUrl = ""
+avatar = "images/Rongmon_Bordoloi.jpg"
+customCSS = ["css/custom.css"]
+
+colorScheme = "auto"
+hideColorSchemeToggle = false
+
+# Customize fonts
+[params.typography]
+serif = false
+
+# Social Media Links
+[[params.social]]
+icon = "github"
+iconPack = "fab"
+name = "Github"
+url = "https://github.com/rongmon"
+
+[[params.social]]
+icon = "twitter"
+iconPack = "fab"
+name = "Twitter"
+url = "https://twitter.com/astrobordoloi"
+
+[[params.social]]
+icon = "envelope"
+iconPack = "fas"
+name = "Email"
+url = "mailto:rbordolo@ncsu.edu"
+
+# Analytics
+[params.analytics]
+enabled = true
+google = "G-LKH1FTLZSQ"
+
+# Menu - Navigation
+[[menu.main]]
+name = "Home"
+weight = 1
+url = "/"
+
+[[menu.main]]
+name = "Academics"
+weight = 2
+url = "/academics/"
+
+[[menu.main]]
+name = "Research"
+weight = 3
+url = "/research/"
+
+[[menu.main]]
+name = "Publications"
+weight = 4
+url = "/publication/"
+
+[[menu.main]]
+name = "People"
+weight = 5
+url = "/people/"
+
+[[menu.main]]
+name = "News"
+weight = 6
+url = "/news/"
+
+[[menu.main]]
+name = "Code"
+weight = 7
+url = "/code/"
+
+[[menu.main]]
+name = "Press"
+weight = 8
+url = "/press/"
+
+# Markup
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+style = "monokai"
