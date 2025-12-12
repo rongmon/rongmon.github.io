@@ -1,2 +1,24 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*~
 
-Research_Files/.DS_Store
+# Hugo build artifacts (regenerated on build)
+resources/
+.hugo_build.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific
+Thumbs.db
+.env.local
+.env.*.local
+
+# Do NOT ignore docs/ - it's needed for GitHub Pages
+# Do NOT ignore content/ - it contains the website content
+# Do NOT ignore themes/ - it's the Hugo theme
