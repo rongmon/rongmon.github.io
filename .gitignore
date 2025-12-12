@@ -8,6 +8,7 @@
 # Hugo build artifacts (regenerated on build)
 resources/
 .hugo_build.lock
+public/
 
 # IDE and editor files
 .vscode/
