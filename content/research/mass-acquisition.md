@@ -102,7 +102,7 @@ Our EIGER results demonstrate that **young galaxies efficiently acquire gas from
 Through absorption spectroscopy, we trace how the intergalactic medium transforms as galaxies reionize it. Metal-enriched gas reveals how early galactic feedback enriches the intergalactic medium, leaving imprints that persist billions of years.
 
 <div style="text-align: center;">
-<img src="/images/eiger-press.png" alt="EIGER survey detects direct signature of reionization" style="max-width: 500px; height: auto;">
+<img src="/images/Eiger-press.png" alt="EIGER survey detects direct signature of reionization" style="max-width: 500px; height: auto;">
 </div>
 
 ## Key Results & Publications
