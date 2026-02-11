@@ -27,8 +27,9 @@ description: "Academic background, credentials, and CV"
 
 | Year | Award |
 |------|-------|
+| 2026 | **University Faculty Scholar** — [NC State University](https://news.ncsu.edu/2026/02/2025-26-university-faculty-scholars-named/)  |
 | 2023 | **Top Ten Breakthrough in Physics in 2023**, [Physics World](https://physicsworld.com/a/physics-world-reveals-its-top-10-breakthroughs-of-the-year-for-2023/) — For "Smoking gun" evidence of early galaxies transforming the universe with the [EIGER survey](https://eiger-jwst.github.io/index.html) |
-| 2023 | **Goodnight Early Career Innovator Award** — NCSU |
+| 2023 | **Goodnight Early Career Innovator Award** — [NC State University](https://provost.ncsu.edu/ofe/awards-and-honors/internal-awards/goodnight-early-career-innovators-award/geci-awardees/) |
 | 2015 | **NASA Hubble Fellowship**  (2015-2018) |
 
 ---

@@ -11,7 +11,7 @@ A complete and interactive [bibliography](http://adsabs.harvard.edu/cgi-bin/nph-
 <div class="publication-list">
 
 <div class="publication-item">
-2025 — EIGER VIII: First stars signatures in the connection between OI absorption and Galaxies in the Epoch of Reionization | Higginson J., et al. | <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251005220H/abstract">ApJ submitted.</a>
+2026 — EIGER VIII: First stars signatures in the connection between OI absorption and Galaxies in the Epoch of Reionization | Higginson J., et al. | <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251005220H/abstract">ApJ in press.</a>
 </div>
 
 <div class="publication-item">
