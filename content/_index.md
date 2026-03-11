@@ -13,7 +13,7 @@ description: "Astrophysicist specializing in galaxy evolution and circumgalactic
       North Carolina State University<br>
       Raleigh, NC, U.S.A.<br>
       Phone: +1 919 513 0692<br>
-      Email: rbordolo at ncsu dot edu<br>
+      Email: rbordol at ncsu dot edu<br>
     </p>
   </div>
 
