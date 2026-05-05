@@ -354,6 +354,15 @@ a:hover {
   object-fit: cover;
 }
 
+.news-image-logo {
+  background: white;
+}
+
+.news-image-logo img {
+  object-fit: contain;
+  padding: 8px;
+}
+
 .news-content {
   flex-grow: 1;
 }

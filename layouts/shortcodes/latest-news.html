@@ -3,7 +3,7 @@
 {{- range first 3 $sorted -}}
 <div class="news-item">
 {{- if .Params.image }}
-<div class="news-image">
+<div class="news-image{{ if .Params.logo }} news-image-logo{{ end }}">
   <img src="{{ .Params.image }}" alt="{{ .Title }}">
 </div>
 {{- end }}
